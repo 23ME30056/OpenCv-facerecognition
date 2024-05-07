@@ -1,1 +1,1 @@
-This repository contains basic + advanced concepts of opencv as well as the face recognition project using haarcascade classifier
+This repository contains basic + advanced concepts of opencv as well as the face detection project using haarcascade classifier for 2 versions.(one for basic image and another for live videostream from your device). I have not uploaded the image files which i have used in the tutorials. you can use any. cheers and keep coding
